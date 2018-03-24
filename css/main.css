@@ -1,0 +1,70 @@
+.bg-primary {
+  background-color: #818182 !important;
+}
+
+.brand {
+  color: #830303;
+}
+
+.text-primary {
+    color: grey !important;
+}
+
+#email {
+  color: #830303;
+}
+
+.under-owner {
+  color: #830303 important!;
+}
+
+#amber {
+  border-radius: 100%;
+  border: solid 5px grey;
+}
+
+#logo {
+  width: 50px;
+  height: 50px;
+}
+
+.red {
+  color: #830303;
+}
+
+#sam {
+  text-align: right;
+}
+
+#sadie {
+  height: 250px;
+  width: 200px;
+  border-radius: 100%;
+  margin: 0 auto;
+}
+
+#dexter {
+  border-radius: 100%;
+}
+
+#summer {
+  width: 200px;
+  border-radius: 100%
+}
+
+#riley {
+  width: 200px;
+  border-radius: 100%;
+}
+
+#instagram {
+  margin-left: 30%;
+}
+
+#facebook:hover {
+  color: #830303;
+}
+
+#Instagram:hover {
+  color: #830303;
+}
